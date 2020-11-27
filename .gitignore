@@ -1,0 +1,6 @@
+.env
+Readme-dev.txt
+public/images
+public/files
+node_modules
+package-lock.json
